@@ -1,4 +1,4 @@
-# [PatternLock](https://sertacogan.com)
+# [PatternLock](http://sertacogan.com)
 *An attempt to pattern lock system for UE4 projects.*
 
 It is a sample project created to help the community. If you have problems or mistakes, do not hesitate to contact!
